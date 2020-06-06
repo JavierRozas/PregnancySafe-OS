@@ -1,4 +1,4 @@
 package com.acme.pregnancysafe.model;
 
-public class Obstetrician {
+public class Obstetrician extends AuditModel {
 }
